@@ -53,7 +53,7 @@
     "@ledgerhq/hw-app-eth": "^6.37.0",
     "@ledgerhq/hw-transport": "^6.31.0",
     "@ledgerhq/hw-transport-webusb": "^6.29.0",
-    "@ledgerhq/live-common": "^34.1.0",
+    "@ledgerhq/live-common": "^34.8.0",
     "@polkadot/types": "^11.3.1",
     "@polkadot/util": "^12.6.2",
     "@trezor/connect-web": "^9.2.4",
