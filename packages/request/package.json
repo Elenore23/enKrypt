@@ -16,7 +16,7 @@
     "node": ">=14.15.0"
   },
   "dependencies": {
-    "@enkryptcom/types": "workspace:^",
+    "@enkryptcom/types": "0.0.1",
     "eventemitter3": "^5.0.1",
     "isomorphic-ws": "^5.0.0",
     "json-rpc-2.0": "^1.7.0",
