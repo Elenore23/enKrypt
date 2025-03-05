@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@enkryptcom/types": "workspace:^",
-    "@enkryptcom/utils": "workspace:^",
+    "@enkryptcom/utils": "0.0.3",
     "chai": "^4.4.1",
     "localforage": "^1.10.0"
   },
