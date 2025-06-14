@@ -21,9 +21,9 @@
     "@enkryptcom/signer-ethereum": "workspace:^",
     "@enkryptcom/signer-kadena": "workspace:^",
     "@enkryptcom/signer-polkadot": "workspace:^",
-    "@enkryptcom/storage": "workspace:^",
-    "@enkryptcom/types": "workspace:^",
-    "@enkryptcom/utils": "workspace:^",
+    "@enkryptcom/storage": "0.0.2",
+    "@enkryptcom/types": "0.0.1",
+    "@enkryptcom/utils": "0.0.3",
     "@polkadot/util": "^12.6.2",
     "assert": "^2.1.0",
     "bip39": "^3.1.0"
