@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@amplitude/analytics-browser": "^2.9.0",
-    "@babel/runtime": "^7.24.7",
+    "@babel/runtime": "^7.26.10",
     "@enkryptcom/extension-bridge": "workspace:^",
     "@enkryptcom/hw-wallets": "0.0.2",
     "@enkryptcom/keyring": "workspace:^",
@@ -49,7 +49,7 @@
     "bip39": "^3.1.0",
     "bitcoinjs-lib": "^6.1.6",
     "chai": "^4.4.1",
-    "concurrently": "^8.2.2",
+    "concurrently": "^9.0.0",
     "core-js": "^3.37.1",
     "echarts": "^5.5.0",
     "ethereum-cryptography": "^2.2.0",
