@@ -56,7 +56,7 @@
     "@ledgerhq/live-common": "^34.3.0",
     "@polkadot/types": "^11.3.1",
     "@polkadot/util": "^12.6.2",
-    "@trezor/connect-web": "^9.2.4",
+    "@trezor/connect-web": "^9.5.0",
     "@zondax/ledger-substrate": "^0.44.2",
     "hdkey": "^2.1.0",
     "webextension-polyfill": "^0.12.0"
