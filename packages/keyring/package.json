@@ -22,7 +22,7 @@
     "@enkryptcom/signer-kadena": "workspace:^",
     "@enkryptcom/signer-polkadot": "workspace:^",
     "@enkryptcom/storage": "workspace:^",
-    "@enkryptcom/types": "workspace:^",
+    "@enkryptcom/types": "0.0.1",
     "@enkryptcom/utils": "workspace:^",
     "@polkadot/util": "^12.6.2",
     "assert": "^2.1.0",
