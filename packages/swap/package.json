@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@enkryptcom/types": "workspace:^",
-    "@enkryptcom/utils": "workspace:^",
+    "@enkryptcom/utils": "0.0.3",
     "bignumber.js": "^9.1.2",
     "eventemitter3": "^5.0.1",
     "isomorphic-ws": "^5.0.0",
